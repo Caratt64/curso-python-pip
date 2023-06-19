@@ -1,11 +1,9 @@
 # Steps
-Aqui van unas nuevas reglas
+# Game Project
 
-Agrege otras indicaciones
+Para correr el juego debes seguir las siguientes instrucciones en la terminal:
 
-En la linea 6 agregue otra
-
-Fin del archivo
-
-646564 
-1258 
+```sh
+cd game
+python3 main.py
+```
